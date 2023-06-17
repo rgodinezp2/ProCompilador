@@ -1,0 +1,8 @@
+C:/Users/ASUS/Downloads/PFCompiladores/Calcparse/obj/Debug/net6.0/Expr.interp
+C:/Users/ASUS/Downloads/PFCompiladores/Calcparse/obj/Debug/net6.0/Expr.tokens
+C:/Users/ASUS/Downloads/PFCompiladores/Calcparse/obj/Debug/net6.0/ExprBaseListener.cs
+C:/Users/ASUS/Downloads/PFCompiladores/Calcparse/obj/Debug/net6.0/ExprLexer.cs
+C:/Users/ASUS/Downloads/PFCompiladores/Calcparse/obj/Debug/net6.0/ExprLexer.interp
+C:/Users/ASUS/Downloads/PFCompiladores/Calcparse/obj/Debug/net6.0/ExprLexer.tokens
+C:/Users/ASUS/Downloads/PFCompiladores/Calcparse/obj/Debug/net6.0/ExprListener.cs
+C:/Users/ASUS/Downloads/PFCompiladores/Calcparse/obj/Debug/net6.0/ExprParser.cs
